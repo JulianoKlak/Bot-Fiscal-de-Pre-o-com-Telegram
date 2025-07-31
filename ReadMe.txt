@@ -1,6 +1,6 @@
 # 🤖 Bot Fiscal de Preço
 
-Este é um bot simples em Python que monitora o preço de um produto em um link da Kabum. Quando o preço cai abaixo de um valor definido, ele envia uma notificação automática via Telegram.
+Este é um bot simples em Python que monitora o preço de um produto em um link de um site de compra. Quando o preço cai abaixo de um valor definido, ele envia uma notificação automática via Telegram.
 
 ---
 
