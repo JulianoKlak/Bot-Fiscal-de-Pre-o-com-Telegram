@@ -78,3 +78,10 @@ bot-preco/
 ├── main.py           # Script principal com lógica do bot
 ├── requirements.txt  # Dependências do projeto
 └── README.md         # Este arquivo
+
+
+🛡️ Aviso de Segurança
+Nunca compartilhe seu TOKEN ou CHAT_ID publicamente. Use variáveis de ambiente ou arquivos .env em produção (recomendado).
+
+📬 Licença
+Este projeto é open-source e está disponível sob a licença MIT.
