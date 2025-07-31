@@ -6,7 +6,7 @@ Este é um bot simples em Python que monitora o preço de um produto em um link 
 
 ## 🚀 Funcionalidades
 
-- Faz scraping do preço do produto no site da Kabum
+- Faz scraping do preço do produto no site de sua escolha, no exemplo estou usando o site da Kabum
 - Converte o valor para float com precisão
 - Compara com o preço-alvo definido
 - Envia alerta via Telegram quando o preço estiver abaixo ou igual ao desejado
