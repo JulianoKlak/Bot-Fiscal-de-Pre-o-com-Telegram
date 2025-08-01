@@ -2,8 +2,8 @@ import asyncio
 from telegram import Bot
 from scraper import obter_preco_kabum
 
-TOKEN = 'SEU_TOKEN_DO_BOT'
-CHAT_ID = SEU_CHAT_ID
+TOKEN = 'SEU_TOKEN_DO_BOT' # Substitua pelo seu token
+CHAT_ID = SEU_CHAT_ID # Substitua pelos valores corretos
 URL = "https://www.kabum.com.br/produto/589244/ar-condicionado-split-parede-springer-midea-xtreme-save-connect-inverter-9-000-btu-h-qf-r32-220v-1f"
 PRECO_ALVO = 1999.0  # usar ponto, não usar vírgula
 
